@@ -6,6 +6,8 @@
 # Description
 The InDriver is a React Native-based mobile application that mimics the core functionalities of ride-hailing services like Uber. The project focuses on building a robust and user-friendly platform that allows users to book rides, view ride details, and make payments seamlessly. The application integrates multiple technologies and services such as Clerk for authentication, Google Maps APIs for location and routing, Stripe for payment processing, NeonDB for database management, and TailwindCSS for styling.
 
+[Go through Step-by-step guide to create Uber/Rapido-Style App in React Native](https://www.sevensquaretech.com/build-uber-rapido-clone-indriver-react-native/)
+
 # Features
 
 # User Authentication (Clerk):
